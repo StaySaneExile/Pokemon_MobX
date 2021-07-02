@@ -1,0 +1,12 @@
+.card {
+    color: #3b549c;
+    background-color: #212529;
+}
+
+.card li {
+    display: flex;
+    justify-content: space-between;
+    color: antiquewhite;
+    background-color: #212529;
+}
+
